@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-18 12:43+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:25
+msgid "Primary"
+msgstr ""
+
+#: functions.php:26
+msgid "Social"
+msgstr ""
+
+#: functions.php:97
+msgid "--Select--"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "--None--"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Click here to select icon"
+msgstr ""
+
+#: inc/customizer/blog.php:6
+msgid "LATEST BLOG"
+msgstr ""
+
+#: inc/customizer/blog.php:11 inc/customizer/service.php:11
+#: inc/customizer/special-menu.php:31 inc/customizer/special-offer.php:31
+#: inc/customizer/testimonial.php:11
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/service.php:6 inc/front-sections/service.php:87
+msgid "OUR SERVICES"
+msgstr ""
+
+#: inc/customizer/special-menu.php:5
+msgid "Special Menu"
+msgstr ""
+
+#: inc/customizer/special-menu.php:6
+msgid "Special Menu Section options."
+msgstr ""
+
+#: inc/customizer/special-menu.php:18
+msgid "Special Menu Section Enable"
+msgstr ""
+
+#: inc/customizer/special-menu.php:26 inc/front-sections/special-menu.php:83
+msgid "SPECIAL MENU"
+msgstr ""
+
+#: inc/customizer/special-menu.php:51 inc/front-sections/special-menu.php:87
+msgid "Explore Delicious Flavour"
+msgstr ""
+
+#: inc/customizer/special-menu.php:56
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/special-menu.php:81
+#, php-format
+msgid "Select Product %d"
+msgstr ""
+
+#: inc/customizer/special-offer.php:5
+msgid "Special Offer"
+msgstr ""
+
+#: inc/customizer/special-offer.php:6
+msgid "Special Offer Section options."
+msgstr ""
+
+#: inc/customizer/special-offer.php:18
+msgid "Special Offer Section Enable"
+msgstr ""
+
+#: inc/customizer/special-offer.php:26
+msgid "SPECIAL OFFER"
+msgstr ""
+
+#: inc/customizer/special-offer.php:54
+msgid "Select Product"
+msgstr ""
+
+#: inc/customizer/special-offer.php:62 inc/front-sections/special-offer.php:65
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/special-offer.php:68
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/subscribe.php:5
+msgid "Subscribe"
+msgstr ""
+
+#: inc/customizer/subscribe.php:6
+msgid "Subscribe Section options."
+msgstr ""
+
+#: inc/customizer/subscribe.php:18
+msgid "Subscribe Section Enable"
+msgstr ""
+
+#: inc/customizer/subscribe.php:19
+msgid ""
+"Install Jetpack and Enable Subscription Module to activate Subsription form."
+msgstr ""
+
+#: inc/customizer/subscribe.php:27
+msgid "Opening - Closing Time"
+msgstr ""
+
+#: inc/customizer/subscribe.php:32
+msgid "Text Field 1"
+msgstr ""
+
+#: inc/customizer/subscribe.php:52
+msgid "Available Daily, 9am-10pm"
+msgstr ""
+
+#: inc/customizer/subscribe.php:57
+msgid "Text Field 2"
+msgstr ""
+
+#: inc/customizer/testimonial.php:6
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: inc/customizer/top-bar.php:5
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer/top-bar.php:6
+msgid "Topbar Section options."
+msgstr ""
+
+#: inc/customizer/top-bar.php:18
+msgid "Topbar Section Enable"
+msgstr ""
+
+#: inc/customizer/top-bar.php:30
+msgid "Social Menu Enable"
+msgstr ""
+
+#: inc/customizer/top-bar.php:31
+msgid "Note: To show secondary and social menu."
+msgstr ""
+
+#: inc/customizer/top-bar.php:31
+msgid "Click Here"
+msgstr ""
+
+#: inc/customizer/top-bar.php:31
+msgid "to create menu"
+msgstr ""
+
+#: inc/customizer/top-bar.php:38
+msgid " Any Questions? Call Us:"
+msgstr ""
+
+#: inc/customizer/top-bar.php:43
+msgid "Text Field"
+msgstr ""
+
+#: inc/customizer/top-bar.php:57
+msgid "1-223-355-2214"
+msgstr ""
+
+#: inc/customizer/top-bar.php:62
+msgid "Contact Number"
+msgstr ""

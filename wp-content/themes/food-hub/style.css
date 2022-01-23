@@ -1,0 +1,234 @@
+/**
+Theme Name: Food Hub
+Theme URI: https://themepalace.com/downloads/food-hub/
+Author: themepalace
+Author URI: https://themepalace.com
+Version: 1.0.1
+Requires PHP: 5.6
+Tested up to: 5.8
+Requires at least: 5.0
+Template: food-restro
+Text Domain: food-hub
+Description: Food Hub ( Child theme of food restro ) is a new generation WordPress theme for Cafe & Restaurant and any food related business web site. Built with the latest Wordpress technology. Since it is WooCommerce compatible you can start food delivery service quickly with WooCommerce Plugin. The theme comprises a strong customization ability to enhance the outlook and functionality. Food Hub offers a clean, readable, streamlined, and responsive design. The theme is entirely flexible and responsive so that your contents are visually stunning on every device regardless of their screen size.
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: translation-ready, custom-background, theme-options, custom-menu, threaded-comments, featured-images, footer-widgets, editor-style, right-sidebar, full-width-template, two-columns, grid-layout, custom-colors, custom-header, custom-logo, featured-image-header, blog, portfolio, entertainment
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.same-background + .same-background {
+	padding-top: 0;
+}
+#top-bar,
+.backtotop,
+#colophon {
+    background-color: #0D395E;
+}
+
+.btn,
+.btn:hover .more-icon, 
+.btn:focus .more-icon,
+#special-offer .btn:hover .more-icon,
+.jetpack_subscription_widget input[type="submit"],
+#our-services article:hover .entry-container {
+    background-color: #9fc4ce;
+}
+#masthead {
+	background-color: #000;
+}
+.main-navigation ul#primary-menu li.current-menu-item > a, 
+.main-navigation ul#primary-menu li:hover > a, 
+.main-navigation ul#primary-menu li:focus > a, 
+.main-navigation ul#primary-menu .focus > a, 
+.main-navigation ul#primary-menu li > a:focus,
+.main-navigation ul#primary-menu li:hover > svg, 
+.main-navigation ul#primary-menu li:focus > svg, 
+.main-navigation li.menu-item-has-children:hover > a > svg, 
+.main-navigation li.menu-item-has-children > a:hover > svg, 
+.main-navigation ul#primary-menu > li.current-menu-item > a > svg, 
+.main-navigation ul#primary-menu .focus > a > svg {
+	color: #9fc4ce;
+	fill: #9fc4ce;
+}
+
+.blog-posts-wrapper .entry-title a:hover, 
+.blog-posts-wrapper .entry-title a:focus {
+	color: #0D395E;
+}
+ul.post-categories li a:hover, 
+ul.post-categories li a:focus {
+	color: #000;
+}
+.featured-content-wrapper .btn,
+.section-subtitle,
+#special-menu .section-subtitle,
+#special-menu article .entry-title a:hover, 
+#special-menu article .entry-title a:focus,
+#special-menu article:hover .woocommerce-Price-amount.amount,
+ul.post-categories li a,
+#subscribe-us h3  {
+	color: #0D395E;
+}
+.woocommerce-Price-amount.amount,
+#colophon .site-info a,
+#special-menu .section-subtitle {
+	color: #fff;
+}
+.featured-content-wrapper .btn:hover, 
+.featured-content-wrapper .btn:focus {
+	background-color: #9fc4ce;
+}
+.featured-content-wrapper .btn:hover .more-icon svg, 
+.featured-content-wrapper .btn:focus .more-icon svg {
+	fill:#9fc4ce;
+}
+.more-icon,
+.btn:hover, 
+.btn:focus,
+#special-menu {
+    background-color: #0D395E;
+}
+#featured-slider .slick-prev:hover, 
+#featured-slider .slick-next:hover, 
+#featured-slider .slick-prev:focus, 
+#featured-slider .slick-next:focus {
+	background-color: #9fc4ce;
+	border-color: #9fc4ce;
+}
+#colophon a:hover, 
+#colophon a:focus {
+    opacity: 0.8;
+}
+
+/*--------------------------------------------------------------
+#  Our Services
+--------------------------------------------------------------*/
+#our-services .section-content {
+    margin: 0 -15px;
+}
+#our-services article {
+    padding: 0 15px;
+}
+#our-services .entry-container {
+    background-color: #0D395E;
+    padding: 40px 30px;
+}
+#our-services .entry-title a,
+#our-services .entry-content p,
+#special-menu .entry-content, 
+#special-menu .entry-content p,
+#special-offer .section-title,
+#special-offer .section-content {
+    color: #fff;
+}
+
+.icon-container i {
+    color: #9fc4ce;
+}
+#our-services .entry-title a:hover, 
+#our-services .entry-title a:focus {
+    color: #fff;
+    opacity: 0.8;
+}
+#our-services article:hover .icon-container a i, 
+.icon-container a:focus i {
+	color: #fff;
+	opacity: 0.8;
+}
+#about-us .featured-image {
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+#special-offer,
+.jetpack_subscription_widget,
+.site-info {
+    background-color: #0D395E;
+}
+#special-offer .btn,
+#special-offer .btn:hover .more-icon {
+	background-color: #3b5998;
+}
+#special-offer .more-icon {
+	background-color: #333;
+}
+#special-offer .btn:hover, 
+#special-offer .btn:focus {
+ 	background-color: #333;
+}
+.footer-widgets-area.page-section {
+    padding: 63px 0 0 0;
+}
+.footer-widgets-area.page-section .wrapper {
+    border-bottom: 1px solid rgb(255 255 255 / 50%);
+    padding-bottom: 63px;
+}
+.site-info {
+    padding: 10px 0;
+}
+
+#food_restro_subscribe_section .wp-block-button__link {
+    border: none;
+    background: transparent;
+}
+
+@media screen and (min-width: 992px) {
+	#about-us .featured-image {
+	    margin-bottom: 0px;
+	}
+	#about-us .col-2 .section-container {
+	    padding-right: 0px;
+	    padding-left: 50px;
+	}
+
+	#food_restro_subscribe_section #subscribe-submit {
+	    top: 61px;
+	    right: 92px;
+	}
+}
+
+@media screen and (min-width: 1024px) {
+	.main-navigation ul ul,
+	.main-navigation ul.nav-menu > li:not(:last-child):after {
+	    background-color: #9fc4ce;
+	}
+	.main-navigation ul#primary-menu ul li.current-menu-item > a, 
+	.main-navigation ul#primary-menu ul li:hover > a, 
+	.main-navigation ul#primary-menu ul li:focus > a,
+	.main-navigation ul ul li.menu-item-has-children:hover > a > svg, 
+	.main-navigation ul ul li.menu-item-has-children > a:hover > svg {
+		color: #9fc4ce;
+		fill: #9fc4ce;
+	}
+	.main-navigation ul#primary-menu li.current-menu-item > a, 
+	.main-navigation ul#primary-menu li:hover > a, 
+	.main-navigation ul#primary-menu li:focus > a, 
+	.main-navigation ul#primary-menu .focus > a, 
+	.main-navigation ul#primary-menu li > a:focus {
+		background-color: #0D395E;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	#about-us .col-2 .section-container {
+	    padding-right: 0px;
+	    padding-left: 100px;
+	}
+	#special-menu article:hover .entry-title a,
+	#special-menu article:hover .entry-title a:hover, 
+	#special-menu article:hover .entry-title a:focus {
+		color: #0D395E;
+	}
+	#special-menu .read-more {
+		background-color: #000;
+	}
+
+}
+
+@media screen and (max-width: 767px){
+	#top-bar .wrapper {
+	    display: block; 
+	}
+}

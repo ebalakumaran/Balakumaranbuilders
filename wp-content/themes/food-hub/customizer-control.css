@@ -1,0 +1,6 @@
+li#accordion-section-food_restro_about_section,
+li#accordion-section-food_restro_gallery_section,
+li#accordion-section-food_restro_cta_section,
+li#accordion-section-food_restro_reset_section {
+    display: none !important;
+}
